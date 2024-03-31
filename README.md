@@ -17,6 +17,6 @@ Decision Tree: Although providing acceptable performance with an accuracy of aro
 
 
 **Change 2**
-LSTM model is integrated in a pipeline. The function is saved inside LSTM_pipeline.ipynb. AUC of 96.5 is obtained using LSTM model. Code description is also provided in the end.
+## LSTM model is integrated in a pipeline. The function is saved inside LSTM_pipeline.ipynb. AUC of 96.5 is obtained using LSTM model. Code description is also provided in the end.
 
 
