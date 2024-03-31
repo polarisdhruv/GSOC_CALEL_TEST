@@ -15,3 +15,8 @@ formance in distinguishing between cyberbullying and non-bullying instances.
 XGBoost: Outperformed logistic regression with higher accuracy (~94.8%) and AUC score (~98.8%), suggesting superior predictive capabilities.
 Decision Tree: Although providing acceptable performance with an accuracy of around 90.1% and an AUC score of about 90.4%, it lags behind logistic regression and XGBoost.
 
+
+**Change 2**
+LSTM model is integrated in a pipeline. The function is saved inside LSTM_pipeline.ipynb. AUC of 96.5 is obtained using LSTM model. Code description is also provided in the end.
+
+
